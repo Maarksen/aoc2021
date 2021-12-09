@@ -36,7 +36,7 @@ int main(){
     printf("horizontal is :%d\n", horizontal);
     printf("vertiacal is : %d\n", vertical);
 
-    answer = vertical *horizontal;
+    answer = vertical * horizontal;
 
     printf("%d\n", answer);
 
